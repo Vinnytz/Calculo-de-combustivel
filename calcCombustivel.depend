@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1677255323 source:d:\uns app aleatorio\codeblocks\projetinho\calccombustivel\calccombustivel\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+
